@@ -160,7 +160,7 @@ div.c2 .num:hover{
     background-color: rgb(73, 45, 7);
     cursor: pointer;}
 
-div.c2 table td
+div.c2 table td.num
 {
 vertical-align: top;
 }
